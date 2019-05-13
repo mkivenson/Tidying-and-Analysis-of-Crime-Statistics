@@ -1,14 +1,14 @@
 ---
-title: "Project 2: NYC & Crime"
+title: "Cleanup and Analysis of Crime Datasets"
 author: "Mary Anna Kivenson"
 date: "3/10/2019"
 output:
   html_document:
     highlight: pygments
     theme: united
-    toc: yes
-    toc_float: yes
-
+    toc: true
+    toc_float: true
+    code_folding: show
 ---
 
 ```{r setup, include=FALSE}
